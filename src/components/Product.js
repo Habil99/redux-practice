@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from 'antd'
-import { HeartOutlined, HeartFilled } from '@ant-design/icons'
+import { HeartOutlined } from '@ant-design/icons'
 import { useDispatch } from 'react-redux'
 import { addToCart } from '../features/cardSlice'
 
